@@ -7,6 +7,29 @@ This repository contains Python tutorial programs from basics to advanced.
 
 ## 📂 Topics
 - Variables and Data Types
+- Lists, tuples, sets
+- Dictionaries + loops
+- Functions + lambda functions
+- File handling
+- Exception handling
+- Classes & objects
+- Inheritance, polymorphism
+- Modules & packages
+- Virtual environments
+- Working with APIs(requests)
+- JSON handling
+- Decorators
+- Generators
+- Logging
+- Debugging techniques
+- Multithreading basics
+- Packages & requirements.txt
+- Flask basics
+- REST APIs (Flask)
+- Request validation
+- Error handling in APIs
+- Environment variables
+- Testing APIs
 
 ## 🎯 Goal
 *“To build strong Python skills for backend development and cloud automation.”*
