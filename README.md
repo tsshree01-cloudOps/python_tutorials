@@ -1,4 +1,11 @@
 # Hi, I'm Tejashree Sonar 👋
+<h1 align="center">Hi 👋, I'm Tejashree</h1>
+<h3 align="center">AWS | Terraform | Python</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
 🚀 AWS Cloud Engineer | Serverless Architect | Terraform 
 
 💡 Passionate about building scalable cloud solutions and automation
@@ -10,20 +17,6 @@ This repository contains Python tutorial programs from basics to advanced.
 
 ## 🎯 Goal
 *“To build strong Python skills for backend development and cloud automation.”*
-
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejashree-cloudOps&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tejashree-cloudOps)
-
-
-## 💎Badges
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Python](https://img.shields.io/badge/Python-Programming-blue)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![Visitor Count](https://komarev.com/ghpvc/?username=tsshree01-cloudOps)
-
 
 ---
 
