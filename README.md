@@ -13,15 +13,16 @@ This repository contains Python tutorial programs from basics to advanced.
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsshree01-cloudOps&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejashree-cloudops&show_icons=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=tejashree-cloudops)
+
+
+## 💎Badges
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
-
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=tsshree01-cloudOp)
+![Visitor Count](https://komarev.com/ghpvc/?username=tsshree01-cloudOps)
 
 
 ---
