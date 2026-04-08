@@ -13,9 +13,9 @@ This repository contains Python tutorial programs from basics to advanced.
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejashree-cloudops&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejashree-cloudOps&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tejashree-cloudops)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tejashree-cloudOps)
 
 
 ## 💎Badges
