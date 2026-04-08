@@ -1,5 +1,6 @@
 # Hi, I'm Tejashree Sonar 👋
 🚀 AWS Cloud Engineer | Serverless Architect | Terraform 
+
 💡 Passionate about building scalable cloud solutions and automation
 
 This repository contains Python tutorial programs from basics to advanced.
@@ -7,18 +8,21 @@ This repository contains Python tutorial programs from basics to advanced.
 ## 📂 Topics
 - Variables and Data Types
 
-🎯 Goal *“To build strong Python skills for backend development and cloud automation.”*
+## 🎯 Goal
+*“To build strong Python skills for backend development and cloud automation.”*
 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsshree01-cloudOps&show_icons=true)
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
+
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tsshree01-cloudOp)
-![GitHub Streak](https://streak-stats.demolab.com/?user=tsshree01-cloudOp)
+
 
 ---
 
@@ -28,4 +32,4 @@ This repository contains Python tutorial programs from basics to advanced.
 
 ---
 
-⭐ *“Learning. Building. Growing in Cloud & DevOps every day.”*
+⭐ *“Learning. Building. Growing in Cloud & infrastructure every day.”*
