@@ -127,3 +127,7 @@ print(change_to)
 change_to = float(string_value)
 print(change_to)
 
+# Deleting a variable
+x = 100
+del x
+#print(x)
